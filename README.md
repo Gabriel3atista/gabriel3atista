@@ -1,4 +1,4 @@
-<h2>Seja bem-vindo, eu sou o Gabriel Batista 👨‍💻 asdadasdasdasdasdsadasda</h2>
+<h2>Seja bem-vindo, eu sou o Gabriel Batista 👨‍💻</h2>
 
 - 🔭 Sou desenvolvedor front-end e atualmente estou trabalhando em projetos pessoais.
 - 📚 Estou estudando TypeScript & ReactJS.
