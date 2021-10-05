@@ -5,7 +5,7 @@
 - 😂 Fato engraçado: Gold 1 é meu elo hell no League of Legends.
 
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/gabriel3atista">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=gabriel3atista&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel3atista&layout=compact&langs_count=7&theme=tokyonight"/>
