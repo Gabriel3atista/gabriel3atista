@@ -1,4 +1,7 @@
-<h2>Seja bem-vindo, eu sou o Gabriel Batista 👨‍💻</h2>
+<h2>Seja bem-vindo, eu sou o Gabriel Batista 👋</h2>
+
+- 👨‍💻 Sou desenvolvedor front-end.
+- 📚 Estou estudando TypeScript & ReactJS.
 
 ##
 
