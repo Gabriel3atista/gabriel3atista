@@ -1,6 +1,6 @@
 <h2>Seja bem-vindo, eu sou o Gabriel Batista 👋</h2>
 
-- 👨‍💻 Sou desenvolvedor front-end.
+- 👨‍💻 Desenvolvedor front-end.
 - 📚 Estou estudando TypeScript & ReactJS.
 
 ##
@@ -12,8 +12,6 @@
     <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel3atista&layout=compact&langs_count=7&hide_border=true&bg_color=10101C&text_color=D5D5D6&title_color=FD4466&icon_color=FFB23E"/>
   </div>
 </div>
-
-
   
 ###
   
