@@ -1,9 +1,5 @@
 <h2>Seja bem-vindo, eu sou o Gabriel Batista 👨‍💻</h2>
 
-- 🔭 Sou desenvolvedor front-end e atualmente estou trabalhando em projetos pessoais.
-- 📚 Estou estudando TypeScript & ReactJS.
-- 😂 Fato engraçado: Gold 1 é meu elo hell no League of Legends.
-
 ##
 
 <div align="center">
