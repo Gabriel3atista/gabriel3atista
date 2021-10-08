@@ -1,4 +1,4 @@
-<h2>Hey There, I'm Gabriel Batista 👋</h2>
+<h2>Hello buddy, I'm Gabriel Batista 👋</h2>
 
 - 👨‍💻 I'm a front-end developer.
 - 📚 I'm currently studying TypeScript & ReactJS.
